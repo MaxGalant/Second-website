@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Roboto-Black';
+    src: url(/Fonts/Roboto-Black);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'JosefinSans-Italic';
+    src: url(/Fonts/JosefinSans-Italic);
+}
+
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url(/Fonts/OpenSans-Bold);
+}
